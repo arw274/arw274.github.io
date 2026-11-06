@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 2nd Year PhD Student @ Cornell, Princeton ECE '25. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 2nd Year CS PhD @ Cornell, Princeton ECE '25 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a second-year PhD student in Computer Science at Cornell University, where I am fortunate to be advised by Prof. [Michael P. Kim](https://www.cs.cornell.edu/~mpkim/). I'm grateful to be supported by the [NSF GRFP](https://www.nsfgrfp.org/). I am broadly interested in foundations of responsible AI.
+Hello! I'm a second-year PhD student in Computer Science at Cornell University, where I am fortunate to be advised by Prof. [Michael P. Kim](https://www.cs.cornell.edu/~mpkim/) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I am broadly interested in connections between complexity theory, game theory, and machine learning, particularly for reframing questions about AI safety and evaluation.
 
-Previously, I graduated from Princeton University with a B.S.E. in Electrical & Computer Engineering and minors in Applied Math and Computer Science, where I was fortunate to have worked with Prof. [Matt Weinberg](https://www.cs.princeton.edu/~smattw/) and Prof. [Chi Jin](https://sites.google.com/view/cjin/home).
+Previously, I graduated from Princeton University with a B.S.E. in Electrical & Computer Engineering and minors in Applied Math and Computer Science. While there, I was fortunate to work with Prof. [Matt Weinberg](https://www.cs.princeton.edu/~smattw/) and Prof. [Chi Jin](https://sites.google.com/view/cjin/home).
